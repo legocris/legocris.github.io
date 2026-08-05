@@ -1,3 +1,5 @@
+**Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Other](OTHER.md)
+
 # Cristobal Cortés Gómez
 ### Programador y Matemático Inventor
 

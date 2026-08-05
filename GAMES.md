@@ -3,7 +3,7 @@
 # 🎮 Largo Desarrollo
 
 ## [Libelula]()
-<img src="Imagenes/GravityBox.png" width="100%" alt="Libelula">
+<img src="Imagenes/Libelula.png" width="100%" alt="Libelula">
 
 ## [Gravity Box](https://axolotlbros.itch.io/sacrifice-your-brothers)
 <img src="Imagenes/GravityBox.png" width="100%" alt="Gravity Box">

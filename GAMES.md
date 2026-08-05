@@ -28,7 +28,30 @@ Estudio independiente de videojuegos que formé junto a mi equipo.
 
 # 🕹️ Game Jams
 
-## [Global Game Jam](https://www.youtube.com/watch?v=sKryIP7iI3w)
-<img src="https://github.com/user-attachments/assets/db1f19ac-82f0-4d78-8213-2465249ffc6b" width="100%" alt="Global Game Jam">
+Un juego cada año en las 48 horas del Global Game Jam, desde 2012. [Ver reel de highlights](https://www.youtube.com/watch?v=sKryIP7iI3w)
 
-Juegos creados en 48 horas para el Global Game Jam, desde 2012.
+## [Comrade Spatial Baby 9](https://globalgamejam.org/games/2024/comrade-spatial-baby-9)
+
+Juego creado en el Global Game Jam 2024.
+
+## [Pit's Fire 4](https://v3.globalgamejam.org/2020/games/pits-fire-4)
+
+Juego creado en el Global Game Jam 2020.
+
+## [La Casa del Roboritmo](https://v3.globalgamejam.org/2019/games/la-casa-del-roboritmo)
+<img src="https://ggj.s3.amazonaws.com/featured_image/2019/01/23425/objetos_importantes.png" width="100%" alt="La Casa del Roboritmo">
+
+Rhythm game hecho con el equipo Axolotl Brothers en el Global Game Jam 2019.
+
+## [Chromobot Fighters: Roboffice Edition](https://v3.globalgamejam.org/2018/games/chromobot-fighters-roboffice-edition)
+
+Juego creado en el Global Game Jam 2018.
+
+## [Devil's Best Friend](https://v3.globalgamejam.org/2016/games/devils-best-friend)
+<img src="https://v3.globalgamejam.org/sites/default/files/games/team_pictures/dsc05301.jpg" width="100%" alt="Devil's Best Friend">
+
+Juego creado en el Global Game Jam 2016.
+
+## [Sweet Valentine's Day — GGJ 2013](http://2013.globalgamejam.org/2013/sweet-valentines-day)
+
+Prototipo creado en el Global Game Jam 2013, semilla del juego móvil del mismo nombre.

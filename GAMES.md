@@ -1,4 +1,4 @@
-[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Other](OTHER.md)
+[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md)
 
 # 🎮 Games
 
@@ -6,20 +6,6 @@
 <img src="Imagenes/AxolotlBros3.png" width="100%" alt="Sacrifice your Brothers">
 
 Arcade local: sacrifica a tus compañeros o sálvalos para ganar tiempo. *(2018)*
-
----
-
-### [Camino a Xibalbá: PITZ](https://jalapenolab.mx/pages/pitz)
-<img src="Imagenes/Jalapeño.jpg" width="100%" alt="Camino a Xibalbá: PITZ">
-
-Videojuego del juego de mesa Pitz, para Jalapeño Labs. *(2024-2025)*
-
----
-
-### [Open-Sourcerer](https://open-sourcerer.com/)
-<img src="Imagenes/Gnarled%20Elix.jpg" width="100%" alt="Open-Sourcerer">
-
-Acción 2D donde programas los poderes del personaje en JavaScript. *(2025-2026)*
 
 ---
 
@@ -40,20 +26,6 @@ Cupido arcade para móviles: conecta parejas antes que las separen. *(2014)*
 <img src="Imagenes/ProyectoMultimedia.png" width="100%" alt="Morbus">
 
 Survival arcade contra zombis. 🥉 Bronce en Proyecto Multimedia 2012.
-
----
-
-### Videojuego de escritorio corrupto
-<img src="Imagenes/DanielDouglas2.png" width="100%" alt="Videojuego de escritorio corrupto">
-
-Simulas un escritorio que se corrompe: memoriza y reescribe los textos antes de perderlos. *(2018, Upwork, cliente Daniel Douglas)*
-
----
-
-### Unity — Shader Conversion
-<img src="Imagenes/Immertec.jpg" width="100%" alt="Unity Shader Conversion">
-
-Conversión de un shader GLSL a HLSL para un visor VR médico. *(2018, Upwork, cliente Immertec)*
 
 ---
 

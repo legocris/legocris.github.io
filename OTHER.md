@@ -1,4 +1,4 @@
-[Home](README.md) · [Games](GAMES.md) · [Papers](PAPERS.md) · **Other**
+[Home](README.md) · [Games](GAMES.md) · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · **Other**
 
 # 🔧 Other
 
@@ -6,37 +6,6 @@
 <img src="Imagenes/Inti2.jpg" width="100%" alt="Invernadero automático">
 
 Control automático de humedad y temperatura para cultivar hongos comestibles. *(2023-2025)*
-
----
-
-### [Clases de robótica — American World Languages](https://drive.google.com/file/d/1jcYXvor1MOY12M_HYyBxCDk3AN8kvsEa/view?usp=sharing)
-<img src="Imagenes/AmericanWorldLanguages.jpg" width="100%" alt="Clases de robótica AWL">
-
-Un semestre de clases de robótica para niños. *(2022)*
-
----
-
-### [Proyecto INTERSEX](https://intersex.mx/)
-
-Cubrebocas LED personalizable y museo simulado en 3D sobre intersexualidad. *(2020-2022)*
-
----
-
-### [Teatro Habitar](https://cultura.iteso.mx/web/general/detalle?group_id=5313293)
-
-Proyección interactiva con Kinect para una obra de teatro experimental. *(2017)*
-
----
-
-### [SGT Total](https://sgt-total.com/)
-
-Página web responsiva para venta de luminarias de alumbrado público. *(2017-2020)*
-
----
-
-### [Automatización industrial — Cervejal](https://1drv.ms/v/s!Aslbn4nR5WV3gXMu1zZDiq8jeHbF)
-
-Etiquetadora semiautomática de botellas y programación de un PLC. *(2016-2017)*
 
 ---
 

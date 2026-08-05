@@ -1,21 +1,27 @@
 [Indice](README.md) · **Games** · [Artículos](PAPERS.md) · [Trabajos](JOBS.md) · [Otros](OTHER.md)
 
-# 🎮 Juegos importantes
+# 🎮 Largo Desarrollo
+
+## [Libelula]()
+
+## [Gravity Box](https://axolotlbros.itch.io/sacrifice-your-brothers)
+<img src="Imagenes/GravityBox.png" width="100%" alt="Gravity Box">
+
+# 🎮 Publicados
 
 ## [Sacrifice your Brothers 2018](https://axolotlbros.itch.io/sacrifice-your-brothers)
 <img src="Imagenes/AxolotlBros3.png" width="100%" alt="Sacrifice your Brothers">
 
 ## [Me Canso Ganso 2019](https://apkpure.com/de/me-canso-ganso/com.piratagamesparatu.mecansoganso/download/1.0.0)
+<img src="Imagenes/AxolotlBros1.png" width="100%" alt="Me canso Ganso">
 
-## [Sweet Valentine's Day](https://apkpure.com/sweet-valentine-s-day-free/com.axolotl.svdayfree)
+## [Sweet Valentine's Day 2014](https://apkpure.com/sweet-valentine-s-day-free/com.axolotl.svdayfree)
 <img src="Imagenes/AxolotlGames.png" width="100%" alt="Sweet Valentine's Day">
 
-## [Morbus](https://drive.google.com/file/d/1DNkXIkSf1YP37GFBk0NhI1SNT005FhZE/view?usp=sharing)
+## [Morbus 2012](https://drive.google.com/file/d/1DNkXIkSf1YP37GFBk0NhI1SNT005FhZE/view?usp=sharing)
 <img src="Imagenes/ProyectoMultimedia.png" width="100%" alt="Morbus">
 
 # 🕹️ Game Jams
-
-Juegos creados durante Game Jams. Generalmente 48h.
 
 ## [Comrade Spatial Baby 9](https://globalgamejam.org/games/2024/comrade-spatial-baby-9)
 
@@ -31,3 +37,4 @@ Juegos creados durante Game Jams. Generalmente 48h.
 ## [Sweet Valentine's Day — GGJ 2013](http://2013.globalgamejam.org/2013/sweet-valentines-day)
 
 ## [A flight of the Swallow - GGJ 2012](https://globalgamejam.org/2012/flight-swallow)
+<img src="Imagenes/GGJ2012.png" width="100%" alt="Morbus">

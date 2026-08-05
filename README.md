@@ -4,14 +4,14 @@
 
 📧 legocris@hotmail.com
 
-## [🎮 Games](GAMES.md)
+## [🎮 Juegos](GAMES.md)
 Videojuegos y game jams independientes.
 
-## [📄 Papers](PAPERS.md)
+## [📄 Artículos](PAPERS.md)
 Trabajo académico.
 
 ## [💼 Trabajos](JOBS.md)
 Proyectos hechos para un cliente.
 
-## [🔧 Other](OTHER.md)
-Clases, automatización, arte y demás proyectos.
+## [🔧 Otros](OTHER.md)
+Otras cosas relevantes

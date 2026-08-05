@@ -3,6 +3,7 @@
 # 🎮 Largo Desarrollo
 
 ## [Libelula]()
+<img src="Imagenes/GravityBox.png" width="100%" alt="Libelula">
 
 ## [Gravity Box](https://axolotlbros.itch.io/sacrifice-your-brothers)
 <img src="Imagenes/GravityBox.png" width="100%" alt="Gravity Box">
@@ -23,16 +24,18 @@
 
 # 🕹️ Game Jams
 
-## [Comrade Spatial Baby 9](https://globalgamejam.org/games/2024/comrade-spatial-baby-9)
+## [Comrade Spatial Baby - GGJ 2024](https://globalgamejam.org/games/2024/comrade-spatial-baby-9)
 
-## [Pit's Fire 4](https://v3.globalgamejam.org/2020/games/pits-fire-4)
+## [Pit's Fire - GGJ 2020](https://v3.globalgamejam.org/2020/games/pits-fire-4)
+<img src="Imagenes/PitsOnFire.png" width="100%" alt="Pit's Fire">
 
-## [La Casa del Roboritmo](https://v3.globalgamejam.org/2019/games/la-casa-del-roboritmo)
+## [La Casa del Roboritmo - GGJ 2019](https://v3.globalgamejam.org/2019/games/la-casa-del-roboritmo)
 <img src="https://ggj.s3.amazonaws.com/featured_image/2019/01/23425/objetos_importantes.png" width="100%" alt="La Casa del Roboritmo">
 
-## [Chromobot Fighters: Roboffice Edition](https://v3.globalgamejam.org/2018/games/chromobot-fighters-roboffice-edition)
+## [Chromobot Fighters: Roboffice Edition - GGJ 2017](https://v3.globalgamejam.org/2018/games/chromobot-fighters-roboffice-edition)
+<img src="Imagenes/Chromobot.jpg" width="100%" alt="Chromobot Fighters">
 
-## [Devil's Best Friend](https://v3.globalgamejam.org/2016/games/devils-best-friend)
+## [Devil's Best Friend - GGJ 2016](https://v3.globalgamejam.org/2016/games/devils-best-friend)
 
 ## [Sweet Valentine's Day — GGJ 2013](http://2013.globalgamejam.org/2013/sweet-valentines-day)
 

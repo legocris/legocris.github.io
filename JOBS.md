@@ -1,26 +1,18 @@
 [Home](README.md) · [Games](GAMES.md) · [Papers](PAPERS.md) · **Trabajos** · [Other](OTHER.md)
 
-# 💼 Trabajos serios
+# 💼 Trabajos
 
-## [Open-Sourcerer](https://open-sourcerer.com/)
+## [Gnarled Helix](https://open-sourcerer.com/)
 <img src="Imagenes/Gnarled%20Elix.jpg" width="100%" alt="Open-Sourcerer">
 
-Acción 2D donde programas los poderes del personaje en JavaScript. *(2025-2026, cliente Gnarled Helix LLC)*
-
-## [Camino a Xibalbá: PITZ](https://jalapenolab.mx/pages/pitz)
+## [Jalapeño Labs](https://jalapenolab.mx/pages/pitz)
 <img src="Imagenes/Jalapeño.jpg" width="100%" alt="Camino a Xibalbá: PITZ">
-
-Videojuego del juego de mesa Pitz. *(2024-2025, cliente Jalapeño Labs)*
 
 ## [Proyecto INTERSEX](https://intersex.mx/)
 
-Cubrebocas LED personalizable y museo simulado en 3D sobre intersexualidad. *(2020-2022)*
-
 ## [Automatización industrial — Cervejal](https://1drv.ms/v/s!Aslbn4nR5WV3gXMu1zZDiq8jeHbF)
 
-Etiquetadora semiautomática de botellas y programación de un PLC. *(2016-2017)*
-
-# 🧩 Freelance u otros
+# 🧩 Freelance
 
 ## [Invernadero automático](https://drive.google.com/file/d/1VXNXsHJxxcXPUsZ7u1oSj_WJdibgUq9U/view?usp=drive_link)
 <img src="Imagenes/Inti2.jpg" width="100%" alt="Invernadero automático">

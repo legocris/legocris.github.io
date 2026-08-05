@@ -1,8 +1,6 @@
 [Home](README.md) · [Games](GAMES.md) · [Papers](PAPERS.md) · **Trabajos** · [Other](OTHER.md)
 
-# 💼 Trabajos
-
-Proyectos hechos para un cliente, no de forma independiente.
+# 💼 Trabajos serios
 
 ## [Open-Sourcerer](https://open-sourcerer.com/)
 <img src="Imagenes/Gnarled%20Elix.jpg" width="100%" alt="Open-Sourcerer">
@@ -14,14 +12,20 @@ Acción 2D donde programas los poderes del personaje en JavaScript. *(2025-2026,
 
 Videojuego del juego de mesa Pitz. *(2024-2025, cliente Jalapeño Labs)*
 
+## [Proyecto INTERSEX](https://intersex.mx/)
+
+Cubrebocas LED personalizable y museo simulado en 3D sobre intersexualidad. *(2020-2022)*
+
+## [Automatización industrial — Cervejal](https://1drv.ms/v/s!Aslbn4nR5WV3gXMu1zZDiq8jeHbF)
+
+Etiquetadora semiautomática de botellas y programación de un PLC. *(2016-2017)*
+
+# 🧩 Freelance u otros
+
 ## [Clases de robótica — American World Languages](https://drive.google.com/file/d/1jcYXvor1MOY12M_HYyBxCDk3AN8kvsEa/view?usp=sharing)
 <img src="Imagenes/AmericanWorldLanguages.jpg" width="100%" alt="Clases de robótica AWL">
 
 Un semestre de clases de robótica para niños. *(2022)*
-
-## [Proyecto INTERSEX](https://intersex.mx/)
-
-Cubrebocas LED personalizable y museo simulado en 3D sobre intersexualidad. *(2020-2022)*
 
 ## [SGT Total](https://sgt-total.com/)
 
@@ -40,7 +44,3 @@ Conversión de un shader GLSL a HLSL para un visor VR médico. *(2018, Upwork, c
 ## [Teatro Habitar](https://cultura.iteso.mx/web/general/detalle?group_id=5313293)
 
 Proyección interactiva con Kinect para una obra de teatro experimental. *(2017, dirigida por Velvet Ramírez)*
-
-## [Automatización industrial — Cervejal](https://1drv.ms/v/s!Aslbn4nR5WV3gXMu1zZDiq8jeHbF)
-
-Etiquetadora semiautomática de botellas y programación de un PLC. *(2016-2017)*

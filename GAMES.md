@@ -1,4 +1,4 @@
-[Indice](README.md) · **Games** · [Artículos](PAPERS.md) · [Trabajos](JOBS.md) · [Otros](OTHER.md)
+[Indice](README.md) · **Juegos** · [Artículos](PAPERS.md) · [Trabajos](JOBS.md) · [Otros](OTHER.md)
 
 # 🎮 Largo Desarrollo
 

@@ -1,4 +1,4 @@
-**Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md)
+**Indice** · [Juegos](GAMES.md) · [Artículos](PAPERS.md) · [Trabajos](JOBS.md) · [Otros](OTHER.md)
 
 # Espacio de Cris
 

@@ -1,0 +1,81 @@
+\documentclass[10.5pt]{article}
+\usepackage[left=1.5cm, right=1.5cm, top=1.0cm, bottom=0.9cm]{geometry}
+\usepackage{url}
+\usepackage[utf8]{inputenc}
+
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.10cm}
+
+% Encabezados de sección compactos, con línea divisoria
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0pt}%
+  {0.28cm}{0.06cm}{\normalfont\large\bfseries}}
+\makeatother
+
+% Listas compactas sin depender de enumitem
+\let\olditemize\itemize
+\renewcommand{\itemize}{%
+  \olditemize
+  \setlength{\itemsep}{0pt}%
+  \setlength{\parskip}{0pt}%
+  \setlength{\topsep}{2pt}%
+  \setlength{\parsep}{0pt}}
+
+\title{\vspace{-1.5cm} \Huge{Cristobal Cortés Gómez} \\ \large{Systems Analyst | Technical Support \& Data Operations} \\
+\vspace{0.25cm}
+\normalsize{
+legocris@hotmail.com \ $|$ \ +52 33 1115 0013 \ $|$ \ Guadalajara, Mexico --- open to relocation \\
+Portfolio: \url{legocris.github.io} \ $|$ \ LinkedIn: \url{www.linkedin.com/in/cristobal-cortes-gomez}
+}
+\vspace{-1cm}}
+\author{}
+\date{}
+
+\begin{document}
+\pagestyle{empty}
+
+\maketitle
+\thispagestyle{empty}
+
+\section*{Professional Profile}
+Systems analyst with over five years of contract experience providing end-user technical support, troubleshooting, and data operations for business clients in Mexico and the United States. Diagnoses root causes in unfamiliar and undocumented systems, gathers requirements from non-technical stakeholders, and explains technical issues in clear, professional language. Structures, converts, and validates large datasets; maintains the work instructions others follow; and owns assigned issues from first report through verified resolution. Game developer by background; the linked portfolio is game work, where that troubleshooting and data-modeling experience was built.
+
+\section*{Skills}
+\textbf{Core:} End-User Technical Support $\cdot$ Troubleshooting \& Root-Cause Analysis $\cdot$ Requirements Gathering $\cdot$ Data Conversion, Bulk Loads \& Validation $\cdot$ Data Audits $\cdot$ Process Documentation \& Work Instructions $\cdot$ Task Prioritization. \\
+\textbf{Microsoft Office Suite:} Excel (advanced --- formulas, pivot tables, large-file cleanup), Word, PowerPoint, Outlook. \\
+\textbf{Data \& Systems:} SQL (maintained and debugged production queries); Python (batch data processing and validation); Firebase (schema design, migrations, real-time sync); TypeScript, JavaScript, Node.js; APIs; Git; Linux. \\
+\textbf{Languages:} Spanish (native); English (advanced --- taught English at a language school; written and verbal technical communication with U.S.-based clients).
+
+\section*{Professional Experience}
+
+\textbf{2025--2026}: Software Developer --- \textit{Gnarled Helix LLC (U.S. game studio), Remote Contract}
+\begin{itemize}
+    \item Onboarded onto an undocumented proprietary platform and became productive without formal training or vendor documentation, researching undefined system behavior to resolve issues.
+    \item Reproduced, diagnosed, and resolved reported defects end to end, reporting findings in English to a distributed team and translating stakeholder requirements into technical solutions.
+\end{itemize}
+
+\textbf{2024--2025}: Lead Developer \& System Architect --- \textit{Jalapeño Labs (game studio), Contract}
+\begin{itemize}
+    \item Designed the database architecture and data models for PITZ, an online strategy game with user accounts and paid subscriptions, and executed bulk data migrations between schema versions while preserving record integrity.
+    \item Owned recurring audits of stored user and match records, correcting logic errors and data inconsistencies before release; served as primary technical contact for the client, gathering requirements and reporting progress to non-technical stakeholders.
+\end{itemize}
+
+\textbf{2022--2025}: Private Tutor --- \textit{Independent}; Instructor --- \textit{American World Languages (6 months)}
+\begin{itemize}
+    \item Delivered one-on-one private tutoring in mathematics over three years, diagnosing each student's specific point of confusion and adapting the explanation until comprehension was confirmed.
+    \item Taught English and introductory robotics to children, preparing and updating lesson materials and step-by-step guides as course content changed.
+\end{itemize}
+
+\textbf{2018}: Freelance Technical Consultant --- \textit{Upwork; U.S. clients (Immertec, Daniel Douglas)} \\
+Resolved discrete, ticket-scoped requests end to end: scoped, researched, fixed, and confirmed resolution with the client --- including converting data between two incompatible standards for a medical application.
+
+\textbf{2017--2020}: Web Developer \& Site Maintenance --- \textit{SGT Total} \\
+Maintained a commercial website across a three-year client relationship, handling incoming issue reports and change requests and prioritizing them against full-time study.
+
+\textbf{2016--2017}: Industrial Systems \& Automation --- \textit{Cervejal} \\
+Commissioned a Siemens PLC control system, troubleshot operational faults reported by on-site staff, trained end users on correct operation, and documented the procedures they were required to follow.
+
+\section*{Education}
+\textbf{2017--2025}: Bachelor's Degree in Mathematics --- Universidad de Guadalajara (CUCEI). Coursework in algorithms, data structures, statistics, and numerical methods; thesis on large-dataset handling and preprocessing.
+
+\end{document}

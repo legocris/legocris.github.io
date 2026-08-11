@@ -1,17 +1,19 @@
 **Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md)
 
-# Espacio de Cris
+# [@Criatobal-Cortés ~] Info
 
-📧 legocris@hotmail.com
+legocris@hotmail.com
 
-## [🎮 Games](GAMES.md)
-Videojuegos y game jams independientes.
+---
 
-## [📄 Papers](PAPERS.md)
-Trabajo académico.
+## [~$ Games](GAMES.md)
+Showoff my indie games
 
-## [💼 Trabajos](JOBS.md)
-Proyectos hechos para un cliente.
+## [~$ Papers](PAPERS.md)
+Academic research
 
-## [🔧 Other](OTHER.md)
-Clases, automatización, arte y demás proyectos.
+## [~$ Jobs](JOBS.md)
+Work done for clients
+
+## [~$ Other](OTHER.md)
+experiments, talks or whatever

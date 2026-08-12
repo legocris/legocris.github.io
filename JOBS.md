@@ -12,7 +12,7 @@
 
 ## [Automatización industrial — Cervejal](https://1drv.ms/v/s!Aslbn4nR5WV3gXMu1zZDiq8jeHbF)
 
-# 🧩 Freelance
+# Freelance
 
 ## [Invernadero automático](https://drive.google.com/file/d/1VXNXsHJxxcXPUsZ7u1oSj_WJdibgUq9U/view?usp=drive_link)
 <img src="Imagenes/Inti2.jpg" width="100%" alt="Invernadero automático">

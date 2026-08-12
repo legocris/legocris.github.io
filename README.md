@@ -1,19 +1,20 @@
 **Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md)
+### Language
+English | Español
 
 # Info
-
 legocris@hotmail.com
 
 ---
 
-## [~$ Games](GAMES.md)
+## [Games](GAMES.md)
 Indie games showoff mine
 
-## [~$ Papers](PAPERS.md)
+## [Papers](PAPERS.md)
 Academic research
 
-## [~$ Jobs](JOBS.md)
+## [Jobs](JOBS.md)
 Work done for clients
 
-## [~$ Other](OTHER.md)
+## [Other](OTHER.md)
 Experiments, talks or whatever

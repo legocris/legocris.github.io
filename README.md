@@ -1,17 +1,18 @@
-**Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [ES](Español.md)
+**Home** · [Games](/GAMES.html) · [Papers](/PAPERS.html) · [Jobs](/JOBS.html) · [Other](/OTHER.html) | [ES](/Inicio.html)
+
 # Info
 legocris@hotmail.com
 
 ---
 
-## [Games](GAMES.md)
-Indie games showoff mine
+## [Games](/GAMES.html)
+A showcase of my indie games
 
-## [Papers](PAPERS.md)
+## [Papers](/PAPERS.html)
 Academic research
 
-## [Jobs](JOBS.md)
+## [Jobs](/JOBS.html)
 Work done for clients
 
-## [Other](OTHER.md)
-Experiments, talks or whatever
+## [Other](/OTHER.html)
+Experiments, talks and anything else

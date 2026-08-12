@@ -1,6 +1,6 @@
-[Home](/) · **Games** · [Papers](/PAPERS.html) · [Jobs](/JOBS.html) · [Other](/OTHER.html) | [ES](/Juegos.html)
+[Inicio](/Inicio.html) · **Juegos** · [Publicaciones](/Publicaciones.html) · [Trabajos](/Trabajos.html) · [Otros](/Otros.html) | [EN](/GAMES.html)
 
-# Games
+# Juegos
 
 # Super Games
 
@@ -9,7 +9,7 @@
 
 ---
 
-# Published Games
+# Publicados
 
 ## [Sacrifice your Brothers 2018](https://axolotlbros.itch.io/sacrifice-your-brothers)
 <img src="Imagenes/AxolotlBros3.png" width="100%" alt="Sacrifice your Brothers">
@@ -26,7 +26,7 @@
 
 # Game Jams
 
-Games made during game jams, usually in 48 hours.
+Juegos creados durante Game Jams. Generalmente 48h.
 
 ## [Comrade Spatial Baby 9](https://globalgamejam.org/games/2024/comrade-spatial-baby-9)
 

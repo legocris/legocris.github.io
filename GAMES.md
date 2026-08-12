@@ -14,10 +14,11 @@
 ## [Morbus](https://drive.google.com/file/d/1DNkXIkSf1YP37GFBk0NhI1SNT005FhZE/view?usp=sharing)
 <img src="Imagenes/ProyectoMultimedia.png" width="100%" alt="Morbus">
 
----
 # Game Jams
 
 Juegos creados durante Game Jams. Generalmente 48h.
+
+---
 
 ## [Comrade Spatial Baby 9](https://globalgamejam.org/games/2024/comrade-spatial-baby-9)
 

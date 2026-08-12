@@ -1,5 +1,4 @@
-[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md)
-### [Lang ES](espa)
+[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md) | [ES](Trabajos.md)
 # Games
 ---
 

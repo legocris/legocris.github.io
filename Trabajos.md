@@ -1,4 +1,4 @@
-[Inicio](/Inicio.html) · [Juegos](/Juegos.html) · [Publicaciones](/Publicaciones.html) · **Trabajos** · [Otros](/Otros.html) | [EN](/JOBS.html)
+[Inicio](Inicio.md) · [Juegos](Juegos.md) · [Publicaciones](Publicaciones.md) · **Trabajos** · [Otros](Otros.md) | [EN](JOBS.md)
 
 # Trabajos
 

@@ -1,17 +1,17 @@
-**Indice** · [Juegos](GAMES.md) · [Artículos](PAPERS.md) · [Trabajos](JOBS.md) · [Otros](OTHER.md)
+**Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [ES](Español.md)
+# Info
+legocris@hotmail.com
 
-# Espacio de Cris
+---
 
-📧 legocris@hotmail.com
+## [Games](GAMES.md)
+Indie games showoff mine
 
-## [🎮 Juegos](GAMES.md)
-Videojuegos y game jams independientes.
+## [Papers](PAPERS.md)
+Academic research
 
-## [📄 Artículos](PAPERS.md)
-Trabajo académico.
+## [Jobs](JOBS.md)
+Work done for clients
 
-## [💼 Trabajos](JOBS.md)
-Proyectos hechos para un cliente.
-
-## [🔧 Otros](OTHER.md)
-Otras cosas relevantes
+## [Other](OTHER.md)
+Experiments, talks or whatever

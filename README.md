@@ -1,10 +1,12 @@
 **Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md)
-### Language
-English | Español
-
 # Info
 legocris@hotmail.com
 
+---
+### Language
+English | Español
+### Effects
+yes | no
 ---
 
 ## [Games](GAMES.md)

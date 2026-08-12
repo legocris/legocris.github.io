@@ -11,6 +11,7 @@ Indie games showoff mine
 ## [Papers](PAPERS.md)
 Academic research
 
+
 ## [Jobs](JOBS.md)
 Work done for clients
 

@@ -1,9 +1,6 @@
 [Home](README.md) · **Games** · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md)
-
+### [Lang ES](espa)
 # Games
----
-### Language
-**English** | [Español](es)
 ---
 
 ## [Sacrifice your Brothers 2018](https://axolotlbros.itch.io/sacrifice-your-brothers)

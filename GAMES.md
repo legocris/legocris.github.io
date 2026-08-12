@@ -1,4 +1,4 @@
-[Home](/) · **Games** · [Papers](/PAPERS.html) · [Jobs](/JOBS.html) · [Other](/OTHER.html) | [ES](/Juegos.html)
+[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [ES](Juegos.md)
 
 # Games
 

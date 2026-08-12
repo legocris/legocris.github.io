@@ -9,4 +9,3 @@ Entrevista en el evento GAME DEV XPerience. *(2018)*
 
 ## [Cursos y actualizaciones académicas](https://www.facebook.com/share/p/194nTvHzMR/)
 
-EMO 2024, PredGenIA 2023 y Escuela de Verano en Matemáticas CUCEI.

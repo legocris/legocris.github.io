@@ -33,7 +33,7 @@ Página web responsiva para venta de luminarias de alumbrado público. *(2017-20
 
 Simulas un escritorio que se corrompe: memoriza y reescribe los textos antes de perderlos. *(2018, Upwork, cliente Daniel Douglas)*
 
-## Unity — Shader Conversion
+## Immertec - Unity Shader Conversion
 <img src="Imagenes/Immertec.jpg" width="100%" alt="Unity Shader Conversion">
 
 Conversión de un shader GLSL a HLSL para un visor VR médico. *(2018, Upwork, cliente Immertec)*

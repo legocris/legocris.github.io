@@ -1,6 +1,6 @@
 [Home](README.md) · [Games](GAMES.md) · [Papers](PAPERS.md) · **Jobs** · [Other](OTHER.md)
 
-# 💼 Trabajos
+# Trabajos
 
 ## [Gnarled Helix](https://open-sourcerer.com/)
 <img src="Imagenes/Gnarled%20Elix.jpg" width="100%" alt="Open-Sourcerer">

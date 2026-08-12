@@ -1,19 +1,19 @@
 **Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md)
 
-# [@Cristobal-Cortés ~]$ Info
+# Info
 
 legocris@hotmail.com
 
 ---
 
 ## [~$ Games](GAMES.md)
-› Indie games showoff mine
+Indie games showoff mine
 
 ## [~$ Papers](PAPERS.md)
-› Academic research
+Academic research
 
 ## [~$ Jobs](JOBS.md)
-› Work done for clients
+Work done for clients
 
 ## [~$ Other](OTHER.md)
-› Experiments, talks or whatever
+Experiments, talks or whatever

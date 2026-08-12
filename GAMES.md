@@ -1,6 +1,6 @@
 [Home](README.md) · **Games** · [Papers](PAPERS.md) · [Trabajos](JOBS.md) · [Other](OTHER.md)
 
-# 🎮 Juegos importantes
+# Juegos importantes
 
 ## [Sacrifice your Brothers 2018](https://axolotlbros.itch.io/sacrifice-your-brothers)
 <img src="Imagenes/AxolotlBros3.png" width="100%" alt="Sacrifice your Brothers">
@@ -13,7 +13,7 @@
 ## [Morbus](https://drive.google.com/file/d/1DNkXIkSf1YP37GFBk0NhI1SNT005FhZE/view?usp=sharing)
 <img src="Imagenes/ProyectoMultimedia.png" width="100%" alt="Morbus">
 
-# 🕹️ Game Jams
+# Game Jams
 
 Juegos creados durante Game Jams. Generalmente 48h.
 

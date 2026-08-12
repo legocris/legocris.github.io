@@ -15,9 +15,10 @@
 <img src="Imagenes/AxolotlBros3.png" width="100%" alt="Sacrifice your Brothers">
 
 ## [Me Canso Ganso 2019](https://apkpure.com/de/me-canso-ganso/com.piratagamesparatu.mecansoganso/download/1.0.0)
+<img src="Imagenes/Me_Canso_Ganso.png" width="100%" alt="Me Canso Ganso">
 
 ## [Sweet Valentine's Day](https://apkpure.com/sweet-valentine-s-day-free/com.axolotl.svdayfree)
-<img src="Imagenes/AxolotlGames.png" width="100%" alt="Sweet Valentine's Day">
+<img src="Imagenes/Sweet_Valentine's_Day_Free.png" width="100%" alt="Sweet Valentine's Day">
 
 ## [Morbus](https://drive.google.com/file/d/1DNkXIkSf1YP37GFBk0NhI1SNT005FhZE/view?usp=sharing)
 <img src="Imagenes/ProyectoMultimedia.png" width="100%" alt="Morbus">

@@ -1,4 +1,4 @@
-**Inicio** · [Juegos](Juegos.md) · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · [Otros](Otros.md) | [EN](README.md)
+**Inicio** · [Juegos](Juegos.md) · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · [Otros](Otros.md) | [En](README.md)
 
 # Info
 legocris@hotmail.com

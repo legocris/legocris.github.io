@@ -1,4 +1,4 @@
-[Home](README.md) · [Games](GAMES.md) · **Papers** · [Jobs](JOBS.md) · [Other](OTHER.md) | [ES](Publicaciones.md)
+[Home](README.md) · [Games](GAMES.md) · **Papers** · [Jobs](JOBS.md) · [Other](OTHER.md) | [Es](Publicaciones.md)
 
 # Papers
 

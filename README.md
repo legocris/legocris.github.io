@@ -1,4 +1,4 @@
-**Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [ES](Inicio.md)
+**Home** · [Games](GAMES.md) · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [Es](Inicio.md)
 
 # Info
 legocris@hotmail.com

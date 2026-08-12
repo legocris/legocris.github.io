@@ -2,7 +2,7 @@
 
 # Juegos
 
-# Super Games
+# Súper Juegos
 
 ## [Gravity Box]()
 ## [Libélula]()

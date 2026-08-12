@@ -39,7 +39,6 @@ Juegos creados durante Game Jams. Generalmente 48h.
 
 
 ## [Devil's Best Friend](https://v3.globalgamejam.org/2016/games/devils-best-friend)
-<img src="https://v3.globalgamejam.org/sites/default/files/games/team_pictures/dsc05301.jpg" width="100%" alt="Devil's Best Friend">
 
 ## [Sweet Valentine's Day — GGJ 2013](http://2013.globalgamejam.org/2013/sweet-valentines-day)
 

@@ -1,11 +1,11 @@
 [Inicio](Inicio.md) · **Juegos** · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · [Otros](Otros.md) | [En](GAMES.md)
 
 # Juegos
+## [Libélula](https://www.facebook.com/AxolotlBros)
+<img src="Imagenes/Libelula.webp" width="100%" alt="Libelula Imagen Animada">
 
-# Súper Juegos
-
-## [Gravity Box]()
-## [Libélula]()
+## [Gravity Box](https://www.youtube.com/watch?v=HWEEjgTwFdo)
+<img src="Imagenes/GravityBox.webp" width="100%" alt="Gravity Box Imagen Animada">
 
 ---
 

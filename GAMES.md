@@ -19,8 +19,8 @@
 ## [Sweet Valentine's Day](https://apkpure.com/sweet-valentine-s-day-free/com.axolotl.svdayfree)
 <img src="Imagenes/Sweet_Valentine's_Day_Free.png" width="100%" alt="Sweet Valentine's Day">
 
-## [Morbus](https://drive.google.com/file/d/1DNkXIkSf1YP37GFBk0NhI1SNT005FhZE/view?usp=sharing)
-<img src="Imagenes/ProyectoMultimedia.png" width="100%" alt="Morbus">
+## [Morbus](https://drive.google.com/file/d/1MA1SfxKcKKX8VI8fpP4RzvQA85vqMPDv/view?usp=drive_link)
+<img src="Imagenes/Morbus.png" width="100%" alt="Morbus">
 
 ---
 

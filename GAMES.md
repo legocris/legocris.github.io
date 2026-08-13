@@ -1,8 +1,6 @@
 [Home](README.md) · **Games** · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [Es](Juegos.md)
 
 # Games
-
-# Super Games
 ## [Libélula](https://www.facebook.com/AxolotlBros)
 <img src="Imagenes/Libelula.webp" width="100%" alt="Libelula Animated">
 

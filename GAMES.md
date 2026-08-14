@@ -1,4 +1,4 @@
-[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) | [Es](Juegos.md)
+[Home](README.md) · **Games** · [Papers](PAPERS.md) · [Jobs](JOBS.md) · [Other](OTHER.md) \| [Es](Juegos.md)
 
 # Games
 ## [Libélula](https://www.facebook.com/AxolotlBros)

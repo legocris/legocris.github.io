@@ -1,72 +1,85 @@
-\documentclass{article}
-\usepackage[left=2cm, right=2cm, top=2cm, bottom=2cm]{geometry}
-\usepackage{graphicx} 
+\documentclass[10.5pt]{article}
+\usepackage[left=1.5cm, right=1.5cm, top=1.0cm, bottom=0.9cm]{geometry}
 \usepackage{url}
-\usepackage{parskip} 
-\setlength{\parskip}{0.5 cm}
-\graphicspath{{Imagenes/}}
 
-\title{\vspace{-1cm} Curriculum Vitae\\Cristobal Cortés Gómez \\ \Large{Licenciado en Matemáticas\\Docente de Ciencias Exactas y Divulgador} \\ \vspace{-1cm}}
+% Sin parskip ni enumitem: no están disponibles en este sistema, se emulan a mano
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{0.06cm}
+
+% Encabezados de sección compactos
+\makeatletter
+\renewcommand{\section}{\@startsection{section}{1}{0pt}%
+  {0.22cm}{0.05cm}{\normalfont\large\bfseries}}
+\makeatother
+
+% Listas compactas sin depender de enumitem
+\let\olditemize\itemize
+\renewcommand{\itemize}{%
+  \olditemize
+  \setlength{\itemsep}{0pt}%
+  \setlength{\parskip}{0pt}%
+  \setlength{\topsep}{2pt}%
+  \setlength{\parsep}{0pt}}
+
+\title{\vspace{-1.5cm} \Huge{Cristobal Cortés Gómez} \\ \large{Licenciado en Matemáticas | Docente y Divulgador} \\
+\vspace{0.25cm}
+\normalsize{
+legocris@hotmail.com \ $|$ \ +52 33 1115 0013 \ $|$ \ Guadalajara, Jalisco \\
+Portafolio: \url{legocris.github.io} \ $|$ \ LinkedIn: \url{www.linkedin.com/in/cristobal-cortes-gomez}
+}
+\vspace{-1cm}}
 \author{}
 \date{}
 
 \begin{document}
+\pagestyle{empty}
 
 \maketitle
+\thispagestyle{empty}
 
 \section*{Perfil Profesional}
-Matemático con experiencia en la docencia de ciencias exactas y un fuerte compromiso con la divulgación científica. Apasionado por la transmisión del conocimiento mediante métodos interactivos, impresión 3D y programación. 
-
-Cuento con un sólido dominio de las matemáticas superiores (topología, álgebra abstracta, cálculo avanzado) además de ser un desarrollador de videojuegos independiente con amplios conocimientos en programación, incluida robótica y electrónica básica. Mi perfil interdisciplinario me permite liderar proyectos educativos, crear entornos de aprendizaje dinámicos y acercar las matemáticas puras y aplicadas a estudiantes de todas las edades.
+Licenciado en matemáticas y programador con buenas habilidades de comunicación e interés por la divulgación. Desarrollador mayormente de videojuegos, con varios títulos independientes lanzados y experiencia profesional, además de trabajos de automatización. Perfil matemático teórico, con fundamentos en aprendizaje automático (machine learning); inglés avanzado, con experiencia trabajando en inglés.
 
 \section*{Estudios y Formación}
-\textbf{2017-2025}: Licenciatura en Matemáticas en la Universidad De Guadalajara CUCEI.
+\textbf{2025}: Licenciatura en Matemáticas en la Universidad De Guadalajara CUCEI. \\
+Proyecto final: Análisis de conveniencia de Redes Neuronales angostas contra profundas usando el perceptrón para problemas de clasificación.
 
-Proyecto final: Análisis de conveniencia de Redes Neuronales angostas contra profundas usando el perceptrón para problemas de clasificación\\
-Link: \url{https://drive.google.com/file/d/1y_D-IL4z9spmbDCHWOvdoEBr8vfhC2Ic/view?usp=sharing}
+\section*{Materias que puedo impartir (entre otras)}
+\textbf{Matemáticas:} Geometría, Cálculo Avanzado, Álgebra Abstracta, Estadística y Aprendizaje Automático. \\
+\textbf{Programación:} JavaScript, Python, C y C\#. \\
+\textbf{Desarrollo de videojuegos:} GameMaker y Unity 3D. \\
+\textbf{Robótica y electrónica básica:} Arduino, ESP8266, PLC y Diseño de PCB.
 
-\textbf{Liderazgo Estudiantil y Divulgación Matemática}
+\section*{Experiencia de Maestro}
+
+\textbf{2022-2024}: \textbf{Profesor de Matemáticas.} \\
+Impartí clases particulares de matemáticas en todos los niveles, desde infantil hasta universitario. Creé planes de estudio adaptados a las necesidades específicas de cada alumno para regularización y comprensión profunda de conceptos analíticos.
+
+\textbf{2022}: \textbf{Profesor de Robótica} (American World Languages --- AWL Chapultepec). \\
+Impartí clases de robótica para niños. Diseñé dinámicas prácticas para introducir conceptos de lógica de programación y electrónica básica.
+
+\section*{Divulgación Matemática y Liderazgo Estudiantil}
 Durante mi estancia en la Licenciatura en las matemáticas fui representante de la sociedad de alumnos en donde gestioné diversos proyectos y apoyé a mis compañeros.
-\begin{itemize}
-\item \textbf{2023}: \textbf{Divulgador en "Matemáticas en la Calle"}
-Participación activa en el proyecto social y educativo "Matemáticas en la Calle", impartiendo exposiciones interactivas para acercar la ciencia al público general (\url{https://depmate.cucei.udg.mx/es/enlace/matematicas-en-la-calle}).
 
-\item \textbf{2024}: \textbf{Representante de la Sociedad de Alumnos.} 
-Coordiné la planeación de la "XVI Semana de las Ciencias Físico-Matemáticas", gestionando pláticas y conferencias con especialistas. Asimismo, organicé e implementé diversas actividades recreativas y de integración para la celebración del Día de Pi. Fui Expositor invitado en la Feria de Ciencias de la Preparatoria Cervantes Loma Bonita impartiendo una presentación didáctica sobre "Grupos de Simetría" dirigida a estudiantes de bachillerato. Entre muchas otras actividades\\
-\url{https://sites.google.com/academicos.udg.mx/xvi-semana-de-las-ciencias-fm/inicio}\\
-\small{\url{https://www.udg.mx/es/noticia/celebra-cucei-al-numero-pi-con-actividades-dedicadas-las-matematicas}} \normalsize \\
-\url{https://youtu.be/sUbzvoJGDzw}
+\textbf{2025}: \textbf{Prácticas Profesionales: Divulgación y Difusión de las Matemáticas.} \\
+Imprimí modelos de paletas para experimentar con burbujas de jabón y estudiar físicamente las superficies minimales, mostrando de forma tangible cómo resuelven visualmente problemas de optimización.
 
-\item \textbf{2025}: \textbf{Prácticas Profesionales: Divulgación y Difusión de las Matemáticas.}
-Imprimí modelos de paletas para experimentar con burbujas de jabón y estudiar físicamente las superficies minimales. A través de este proyecto, enseñamos cómo las propiedades físicas de las burbujas resuelven visualmente problemas matemáticos de optimización (ahorrando cálculos complejos) y cómo explicar de forma tangible las propiedades matemáticas de objetos tridimensionales.
-\end{itemize}
-\section*{Experiencia Docente y en Tecnología Educativa}
+\textbf{2024}: \textbf{Representante de la Sociedad de Alumnos.} \\
+Coordiné la planeación de la ``XVI Semana de las Ciencias Físico-Matemáticas'', gestionando pláticas y conferencias con especialistas, y organicé las actividades del Día de Pi. Participé como expositor invitado en la Feria de Ciencias de la Preparatoria Cervantes Loma Bonita, con una presentación didáctica sobre ``Grupos de Simetría'' dirigida a estudiantes de bachillerato. \\
+\url{https://sites.google.com/academicos.udg.mx/xvi-semana-de-las-ciencias-fm/inicio}
 
-\textbf{2022-2024}: \textbf{Profesor de Matemáticas.} 
-Impartición de clases particulares de matemáticas a nivel secundaria, preparatoria y universidad para adolescentes y adultos. Creación de planes de estudio adaptados a las necesidades específicas de cada alumno para regularización y comprensión profunda de conceptos analíticos.
+\textbf{2023}: \textbf{Divulgador en ``Matemáticas en la Calle''.} \\
+Impartí exposiciones interactivas para acercar la ciencia al público general. \\
+\url{https://depmate.cucei.udg.mx/es/enlace/matematicas-en-la-calle}
 
-\textbf{2025-2026}: \textbf{Desarrollador de Herramientas Educativas (Gnarled Helix LLC).}
-Programador de un videojuego de acción 2D diseñado específicamente como herramienta didáctica para aprender a programar \\Link: \url{https://open-sourcerer.com/}. 
+\section*{Desarrollo de Software y Automatización}
 
-\textbf{2022}: \textbf{Profesor de Robótica (American World Languages - AWL Chapultepec).} 
-Docente de robótica para niños. Diseño de dinámicas prácticas para introducir conceptos de lógica de programación y electrónica básica. \\
-Video: \url{https://drive.google.com/file/d/1jcYXvor1MOY12M_HYyBxCDk3AN8kvsEa/view?usp=sharing}
+\textbf{2025 -- jun.\ 2026}: \textbf{Programador freelancer} (Gnarled Helix LLC). \\
+``Open Sourcerer'', videojuego de acción 2d para aprender a programar. Su característica principal es que puedes programar los poderes del personaje con Javascript. Contrato remoto con un estudio estadounidense, con todo el trabajo y la comunicación en inglés.
 
-\section*{Proyectos Tecnológicos y Lógica de Programación}
-\begin{itemize}
-    \item \textbf{Jalapeño Labs (2024-2025)}: Diseñador y programador principal del simulador interactivo para el juego de mesa Camino a Xibalbá PITZ.
-    \item \textbf{Automatización Biológica (2023-2024)}: Construcción de un invernadero automático con sensores IOT.
-    \item \textbf{Proyecto INTERSEX (2020-2022)}: Creación de simuladores 3D y hardware interactivo.
-    \item \textbf{Desarrollo Independiente y Game Jams (2012-2024)}: Participación en creación ágil de software en 48 horas y publicación de videojuegos ("Me Canso Ganso", "Sacrifice your Brothers", "Morbus" - Medalla de bronce). Entrevista en GAME DEV XPerience 2018 (UNAM).
-\end{itemize}
+\textbf{2023-2024}: \textbf{Automatización de invernadero} (cliente particular). \\
+Construcción de un invernadero automático con controles de humedad y temperatura para cultivo de hongos comestibles, incluida toda la instalación eléctrica (ESP8266, Arduino IoT y diseño de PCB).
 
-\section*{Cursos y Actualizaciones Académicas:}
-\begin{itemize}
-    \item \textbf{Escuela de Matemáticas de Occidente (EMO 2024):} Participante (40 hrs). \\ Link: \url{https://www.facebook.com/photo/?fbid=387821580970713&set=primera-escuela-de-matem\%C3\%A1ticas-de-occidente-emo2024si-eres-estudiante-de-cucei-e}
-    \item \textbf{PredGenIA (2023):} Métodos de Aprendizaje Profundo para Predicción Genómica (20 hrs). \\ Link: \url{https://silo.uy/vufind/Record/REDI_9e7d18e2dc02c81f054dbc56c7acd0d1/Details?sid=7802947}
-    \item \textbf{VI Escuela de Verano en Matemáticas CUCEI (2022 y 2023):} Formación intensiva (60 hrs) abarcando: Implementación de una red neuronal artificial en Python, Técnicas no usuales de integración, y Una relación entre la topología y el álgebra conmutativa.\\
-    Link:\\ 
-    \url{https://www.cucei.udg.mx/carreras/matematicas/es/video/escuela-de-verano-en-matematicas}
-\end{itemize}
+\textbf{Videojuegos independientes lanzados:} ``Morbus'' (2012), ``Sweet Valentine's Day'' (2014), ``Sacrifice Your Brothers'' (2018) y ``Me Canso Ganso'' (2019).
 
 \end{document}

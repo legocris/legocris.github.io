@@ -1,4 +1,4 @@
-[Inicio](Inicio.md) · **Juegos** · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · [Otros](Otros.md) | [En](GAMES.md)
+[Inicio](Inicio.md) · **Juegos** · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · [Otros](Otros.md) \| [En](GAMES.md)
 
 # Juegos
 ## [Libélula](https://www.facebook.com/AxolotlBros)

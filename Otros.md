@@ -1,4 +1,4 @@
-[Inicio](Inicio.md) · [Juegos](Juegos.md) · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · **Otros** | [En](OTHER.md)
+[Inicio](Inicio.md) · [Juegos](Juegos.md) · [Publicaciones](Publicaciones.md) · [Trabajos](Trabajos.md) · **Otros** \| [En](OTHER.md)
 
 # Otros
 

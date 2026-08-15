@@ -7,13 +7,11 @@
 \setlength{\parskip}{0.10cm}
 \linespread{1.0}
 
-% Encabezados de sección compactos
 \makeatletter
 \renewcommand{\section}{\@startsection{section}{1}{0pt}%
   {0.18cm}{0.04cm}{\normalfont\large\bfseries}}
 \makeatother
 
-% Listas compactas sin depender de enumitem
 \let\olditemize\itemize
 \renewcommand{\itemize}{%
   \olditemize
@@ -38,19 +36,18 @@ Portfolio: \url{legocris.github.io} \ $|$ \ LinkedIn: \url{www.linkedin.com/in/c
 \maketitle
 \thispagestyle{empty}
 
-\section*{Professional Profile}
-Cross-platform developer across desktop, mobile, web and embedded systems --- mostly game development, with the most recent projects built on web technologies. Experienced in porting, extending and debugging existing codebases. Mathematics graduate with a background in machine learning; advanced English, used daily with U.S.-based clients.
+\section*{Profesional Profile}
+Cross platform developer across desktop, mobile, web and embedded system -- mostly gave development, with focus on game feeling and optimization for low end devices. Mathemathics graduate with a background in machine learining; advanced English, used daily with U.S- based clients.
 
 \section*{Technical Skills}
 \textbf{Programming languages:} TypeScript/JavaScript, Python, C, C\#, GML, GLSL. \\
-\textbf{Web, frameworks \& tools:} HTML/CSS, Node.js, React, Redux, Three.js, Firebase. \\
-\textbf{Game Engines}  GameMaker, Unity 3D \\
+\textbf{Web, frameworks \& tools:} HTML/CSS, Node.js, React, Redux, Three.js, Firebase, GameMaker, Unity 3D. \\
 \textbf{Systems \& hardware:} Linux (shell scripting), Git, Emacs, Vim; ESP8266, Arduino, PLC. \\
 \textbf{Spoken languages:} Spanish (native); English (advanced).
 
 \section*{Experience}
 
-\textbf{2025 -- Jun.\ 2026}: Software Developer --- \textit{Gnarled Helix LLC (U.S. studio), remote contract}
+\textbf{2025 -- Jun.\ 2026}: Game Developer --- \textit{Gnarled Helix LLC (U.S. studio), remote contract}
 \begin{itemize}
     \item Developed a 2D action game that teaches programming (TypeScript, Three.js, React, Redux, Node.js), built around a runtime that executes player-written JavaScript to drive the character's abilities.
     \item Worked within a multidisciplinary, distributed team on an existing codebase.
@@ -62,29 +59,28 @@ Cross-platform developer across desktop, mobile, web and embedded systems --- mo
     \item Owned the correctness of turn and rule resolution, and the Firebase data layer behind player accounts and match records.
 \end{itemize}
 
-\textbf{2023--2024}: Embedded Systems \& Automation --- \textit{Private client, contract} \\
-Built an automated greenhouse for edible mushroom cultivation, with humidity and temperature control: firmware, PCB design and the complete electrical installation (ESP8266, Arduino IoT).
-
-\textbf{2022--2024}: Mathematics Tutor --- \textit{Independent} \\
-\textbf{2022}: Robotics Instructor --- \textit{American World Languages}
-
+\subsubsection*{Other Revelevan Jobs}
 \textbf{2020--2022}: Hardware \& Software Developer --- \textit{Proyecto INTERSEX} \\
 Built an LED face mask that displays custom images, and a 3D museum simulator, for a social and artistic project (JavaScript, Arduino, ESP8266, Blender, Unity 3D).
 
-\textbf{2017--2020}: Web Developer --- \textit{SGT Total} \\
-Built a mobile-responsive commercial website over several months, then handled occasional change requests from the client in the years that followed.
-
-\textbf{2017--2018}: Freelance projects --- \textit{Upwork and direct clients} \\
-\textit{Immertec} (2018, Upwork): ported a GLSL shader to HLSL, delivering a spherical/fisheye VR projection for a medical application. \textit{Daniel Douglas} (2018, Upwork): desktop-simulation mini-game built to a written client brief. \textit{``Habitar'' theater production} (2017): Kinect application adjusting real-time projections to physical set movement (Processing, Java, GLSL).
-
-\textbf{2016--2017}: Industrial Systems \& Automation --- \textit{Cervejal} \\
-Built a semi-automatic bottle labeling machine and programmed a Siemens PLC (ladder logic) for a keg washer/filler, commissioned and tested on site.
-
 \section*{Selected Independent Projects}
-\textbf{Shipped games:} ``Morbus'' (2012), ``Sweet Valentine's Day'' (2014), ``Sacrifice Your Brothers'' (2018), ``Me Canso Ganso'' (2019). \\
-\textbf{Other game projects:} ``Gravity Box'' (2018, unreleased); ``Libélula'' (in development).
+All the games mentioned here were done with the 4 members Axolotl Bros team or variations with less members. As a team we always develop freshly designed experiences with a love for the details. Also all are 2d GameMaker games.
+
+\textbf{2012} ``Morbus'' (sole programmer) Zombie Survival game. Features simple lightining system, A* pathfinding on different sizes for optimization & 2d topdown bone animation system.
+
+\textbf{2014} ``Sweet Valentine's Day'' (sole programmer) Arcade parody about love. Features mobile adapatibility, highly polished pixel art, lemmings like single pixel collision system, online highscores, et... Also Highly optimized to run on any device from android 2.1.
+
+\textbf{2018} ``Sacrifice Your Brothers'' (coprogrammer) Local multiplayer zombie survival game. Features optimized A* pathfinding and highly pollished game feeling with screen shake that frame skips, well managed friction/damping & per weapon game feeling.
+
+\textbf{2019}``Me Canso Ganso'' (coprogrammer) chrome dinosaur arcade like parody game. Features fun gameplay
+
+\textbf{2014-1018(unreleased)}``Gravity Box'' Multiplayer experimental arcade game. Features Extreme Physics c++ engine, multi gravity, platformer AI with parabolic shots and many items that modify gameplay as well as highly polished game feeling.
+
+\textbf{2019 (in development)} ``Libélula'' Multiplayer fighting game. Features: Highly optimized 2d light/shadow system and highly polished fast speed game feelings.
+
+\subsubsection* { Global Game Jam Entries 48hrs}
+``Morbus'' (2012), ``Sween valentine's Day'' (2013), ``devils-best-friend'' (2016), ``chromobot fighters roboffice edition'' (2019), ``home steal's rithm'' (2019), ``pits-fire-4'' (2020), ``comrade spatial baby-9'' (2024)
 
 \section*{Education}
 \textbf{2025}: Bachelor's Degree in Mathematics --- Universidad de Guadalajara (CUCEI). Final project: ``Suitability Analysis of Shallow vs.\ Deep Neural Networks Using the Perceptron for Classification Problems''.
-
 \end{document}

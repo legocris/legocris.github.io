@@ -2,6 +2,9 @@
 \usepackage[left=1.25cm, right=1.25cm, top=0.8cm, bottom=0.7cm]{geometry}
 \usepackage{url}
 \usepackage[utf8]{inputenc}
+% Clickable links: needs texlive-latexextra (oberdiek bundle) installed.
+\IfFileExists{infwarerr.sty}{\usepackage[hidelinks]{hyperref}}{}
+\providecommand{\href}[2]{#2}
 
 \setlength{\parindent}{0pt}
 \setlength{\parskip}{0.10cm}
@@ -20,11 +23,11 @@
   \setlength{\topsep}{2pt}%
   \setlength{\parsep}{0pt}}
 
-\title{\vspace{-1.5cm} \Huge{Cristobal Cortés Gómez} \\ \large{Game Developer \& Mathematician} \\
+\title{\vspace{-1.5cm} \Huge{Cristobal Cortés Gómez} \\ \large{Game Developer} \\
 \vspace{0.25cm}
 \normalsize{
 legocris@hotmail.com \ $|$ \ +52 33 1115 0013 \ $|$ \ Guadalajara, Mexico --- open to relocation \\
-Portfolio: \url{legocris.github.io} \ $|$ \ LinkedIn: \url{www.linkedin.com/in/cristobal-cortes-gomez}
+Portfolio: \href{https://legocris.github.io}{legocris.github.io} \ $|$ \ LinkedIn: \href{https://www.linkedin.com/in/cristobal-cortes-gomez}{linkedin.com/in/cristobal-cortes-gomez}
 }
 \vspace{-1cm}}
 \author{}
@@ -42,13 +45,13 @@ Cross-platform developer across desktop, mobile, web and embedded systems --- mo
 \section*{Technical Skills}
 \textbf{Programming languages:} TypeScript/JavaScript, Python, C, C\#, GML, GLSL. \\
 \textbf{Web, frameworks \& tools:} HTML/CSS, Node.js, React, Redux, Three.js, Firebase. \\
-\textbf{Game Engines:} GameMaker, Unity 3D. \\
-\textbf{Systems \& hardware:} Linux (shell scripting), Git, Emacs, Vim; ESP8266, Arduino, PLC. \\
+\textbf{Game Engines:} GameMaker, Unity. \\
+\textbf{Systems \& hardware:} Linux (shell scripting), Git; ESP8266, Arduino. \\
 \textbf{Spoken languages:} Spanish (native); English (advanced).
 
 \section*{Experience}
 
-\textbf{Jun.\ 2025 -- Jun.\ 2026}: Game Developer --- \textit{Gnarled Helix LLC (U.S. studio), remote contract}
+\textbf{Jun.\ 2025--Jun.\ 2026}: Game Developer --- \textit{Gnarled Helix LLC (U.S. studio), remote contract}
 \begin{itemize}
     \item Developed gameplay, AI, shaders and UI for a browser-based 2D action game that teaches programming through an in-game code editor and a secure JavaScript interpreter, built on the studio's custom, handmade engine (TypeScript, Three.js, React, Redux, WebAssembly physics).
     \item Distributed, multidisciplinary team of \textasciitilde10.
@@ -62,27 +65,21 @@ Cross-platform developer across desktop, mobile, web and embedded systems --- mo
 
 \subsubsection*{Additional Experience}
 \textbf{2020--2022}: Hardware \& Software Developer --- \textit{Proyecto INTERSEX} \\
-Built an LED face mask that displays custom images, and a 3D museum simulator, for a social and artistic project (JavaScript, Arduino, ESP8266, Blender, Unity 3D).
+Built an LED face mask that displays custom images, and a 3D museum simulator, for a social and artistic project (JavaScript, Arduino, ESP8266, Blender, Unity).
 
 \section*{Selected Independent Projects}
-All the games below were made with the 4-member Axolotl Bros team (or smaller variations).
+The games below were made with the 4-member Axolotl Bros team; all listed on my portfolio.
 
-\textbf{2012} ``Morbus'' (sole programmer) Zombie survival game. Features a simple lighting system, multi-resolution A* pathfinding for performance, and a 2D top-down bone animation system.
+\textbf{2019 (paused)} ``Libélula'' Multiplayer fighting game. Custom 2D light/shadow system, parallax backgrounds, and reactive competitive gameplay tuned down to details like coyote time and variable-height jumps.
 
-\textbf{2014} ``Sweet Valentine's Day'' (sole programmer) Arcade parody about love. Features mobile adaptability, polished pixel art, a Lemmings-like single-pixel collision system, and online highscores; optimized to run on any device from Android 2.1.
+\textbf{2018} ``Sacrifice Your Brothers'' (programmer, 2-person code team) Local multiplayer zombie survival game. Optimized A* pathfinding and game feel work: frame-skipping screen shake, tuned friction/damping, and per-weapon recoil. 4k downloads on itch.io.
 
-\textbf{2018} ``Sacrifice Your Brothers'' (coprogrammer) Local multiplayer zombie survival game. Features optimized A* pathfinding and polished game feel: frame-skipping screen shake, well-managed friction/damping, and per-weapon feel. Thousands of downloads on itch.io.
+\textbf{2014--2018 (unreleased)} ``Gravity Box'' Multiplayer experimental arcade game. Multi-gravity movement built on the Extreme Physics library, platformer AI with parabolic shots, and a large gameplay-modifier item system.
 
-\textbf{2019} ``Me Canso Ganso'' (coprogrammer) Mobile arcade parody in the vein of Chrome's dinosaur game, with online leaderboards via Google Play Services.
+\textbf{2014} ``Sweet Valentine's Day'' (sole programmer) Arcade parody about love. Mobile adaptability, pixel art, a Lemmings-like single-pixel collision system, and online highscores; optimized to run on low-end Android hardware.
 
-\textbf{Larger Projects:}\\
-\textbf{2014-2018 (unreleased)} ``Gravity Box'' Multiplayer experimental arcade game. Features an extreme physics C++ engine, multi-gravity, platformer AI with parabolic shots, and many gameplay-modifying items, as well as polished game feel.
-
-\textbf{2019 (paused)} ``Libélula'' Multiplayer fighting game. Features an optimized 2D light/shadow system and polished, fast-paced game feel.
-
-\subsubsection*{Global Game Jam Entries (48 hrs)}
-``Morbus'' (2012), ``Sweet Valentine's Day'' (2013), ``Devil's Best Friend'' (2016), ``Chromobot Fighters: Roboffice Edition'' (2019), ``Home Steal's Rhythm'' (2019), ``Pits Fire 4'' (2020), ``Comrade Spatial Baby-9'' (2024)
+\textbf{2012} ``Morbus'' (sole programmer) Zombie survival game. Simple lighting system, multi-resolution (hierarchical) A* pathfinding for performance, and a 2D top-down bone animation system.
 
 \section*{Education}
-\textbf{2025}: Bachelor's Degree in Mathematics --- Universidad de Guadalajara (CUCEI). Final project: ``Suitability Analysis of Shallow vs.\ Deep Neural Networks Using the Perceptron for Classification Problems''.
+\textbf{2025}: Bachelor's Degree in Mathematics --- Universidad de Guadalajara (CUCEI).
 \end{document}
